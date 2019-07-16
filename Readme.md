@@ -1,4 +1,4 @@
-![Capa] (pball.png)
+![pball](pball.png)
 
 # TimeCast
 
